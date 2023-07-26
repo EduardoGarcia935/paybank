@@ -1,0 +1,37 @@
+<script>
+  export default {
+    name: "HeaderVue",
+    components: {},
+  };
+</script>
+
+<template>
+  <header>
+    <nav>
+      <div>
+        <img
+          src="../assets/img/logo-paybank-white.svg"
+          class="icon"
+          alt=""
+          onload="SVGInject(this)"
+        />
+      </div>
+
+      <div>
+        <div class="flex-start-row">
+          <div>
+            <a href="#" class="disappear link-menu">Features</a>
+          </div>
+          <div class="ml-3">
+            <a href="#" class="disappear link-menu">Nosso App</a>
+          </div>
+          <div class="ml-3">
+            <a href="#" class="btn-small">Junte-se a nós</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+</template>
+
+<style scoped></style>
