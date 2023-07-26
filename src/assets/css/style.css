@@ -1603,7 +1603,7 @@ footer {
   left: 0;
   width: 64px;
   height: 64px;
-  background-image: url("../svg/icon-building.svg");
+  background-image: url("../img/icon-building.svg");
   background-size: 60%;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1640,7 +1640,7 @@ footer {
 @keyframes chage-icon {
   0%, 20% {
     opacity: 1;
-    background-image: url("../svg/icon-building.svg");
+    background-image: url("../img/icon-building.svg");
     background-size: 60%;
   }
   25% {
@@ -1648,7 +1648,7 @@ footer {
   }
   30%, 50% {
     opacity: 1;
-    background-image: url("../svg/icon-euro.svg");
+    background-image: url("../img/icon-euro.svg");
     background-size: 60%;
   }
   55% {
@@ -1656,7 +1656,7 @@ footer {
   }
   60%, 80% {
     opacity: 1;
-    background-image: url("../svg/icon-card.svg");
+    background-image: url("../img/icon-card.svg");
     background-size: 60%;
   }
   85% {
@@ -1664,7 +1664,7 @@ footer {
   }
   90%, 100% {
     opacity: 1;
-    background-image: url("../svg/icon-smartphone.svg");
+    background-image: url("../img/icon-smartphone.svg");
     background-size: 60%;
   }
 }
@@ -1679,7 +1679,7 @@ footer {
   left: 0;
   width: 64px;
   height: 64px;
-  background-image: url("../svg/icon-heart.svg");
+  background-image: url("../img/icon-heart.svg");
   background-size: 60%;
   background-repeat: no-repeat;
   background-position: center center;
@@ -3026,7 +3026,7 @@ nav {
   content: "";
   width: 32px;
   height: 32px;
-  background-image: url("../svg/icon-rect-button.svg");
+  background-image: url("../img/icon-rect-button.svg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3039,7 +3039,7 @@ nav {
   content: "";
   width: 52px;
   height: 40px;
-  background-image: url("../svg/icon-arrow-right.svg");
+  background-image: url("../img/icon-arrow-right.svg");
   background-size: 44%;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3146,7 +3146,7 @@ nav {
   width: 18px;
   height: 18px;
   transform: translate(-50%, -50%);
-  background-image: url("../../svg/icon-arrow-right.svg");
+  background-image: url("../img/icon-arrow-right.svg");
   background-size: cover;
   transition: 0.5s ease;
   z-index: -1;
@@ -3245,7 +3245,7 @@ a:hover {
   width: 28px;
   height: 28px;
   transform: translate(-50%, -50%) translate3d(10px, 0, 0);
-  background-image: url("../svg/icon-blank.svg");
+  background-image: url("../img/icon-blank.svg");
   background-size: cover;
   background-repeat: no-repeat;
   transition: 0.5s ease;
@@ -3669,7 +3669,7 @@ select{
   height: 32px;
   transform: translate(0, -50%);
   transition: 1s ease;
-  background-image: url("../svg/icon-check3.svg");
+  background-image: url("../img/icon-check3.svg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -3683,7 +3683,7 @@ select{
   height: 20px;
   border-radius: 2px;
   transition: 0.5s ease;
-  background-image: url("../svg/icon-plus.svg");
+  background-image: url("../img/icon-plus.svg");
   background-size: cover;
   background-repeat: no-repeat;
   transform: rotate(90deg);
@@ -3739,7 +3739,7 @@ select{
   transform: translate(0, -50%);
   width: 18px;
   height: 18px;
-  background-image: url("../../svg/icon-check.svg");
+  background-image: url("../img/icon-check.svg");
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -3778,7 +3778,7 @@ select{
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  background-image: url("../../svg/icon-check3.svg");
+  background-image: url("../img/icon-check3.svg");
   background-repeat: no-repeat;
   background-position: center center;
 }
