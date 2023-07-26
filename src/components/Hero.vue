@@ -79,7 +79,7 @@
             </div>
 
             <div class="card-content-description p-2">
-              <h6 class="color-white h7">NASSER Y S ALI</h6>
+              <h6 class="color-white h7">EDUARDO A GARCIA</h6>
 
               <img
                 src="../assets/img/icon-mastercard.svg"

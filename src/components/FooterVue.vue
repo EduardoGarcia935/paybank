@@ -98,10 +98,13 @@
       <div class="grid-3 py-0">
         <p class="text-center">© 2022 PayBank.com</p>
       </div>
+      <div class="grid-3 py-0">
+        <p class="text-center">Develop by Eduardo Garcia as a FronPUSH Student</p>
+      </div>
       <div class="grid-3 py-0 disappear"></div>
       <div class="grid-3 py-0 disappear"></div>
       <div class="grid-3 py-0 flex-center">
-        <p class="text-center">Powered by Násser Yousef:</p>
+        <p class="text-center">Created by Násser Yousef:</p>
         <a href="http://nasseryousef.com.br/" class="ml-1" target="_blank">
           <img
             src="../assets/img/icon-ny.svg"
